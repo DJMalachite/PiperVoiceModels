@@ -1,0 +1,31 @@
+{
+    "BT7274": {
+        "key": "BT7274",
+        "name": "piper",
+        "language": {
+            "code": "en",
+            "family": "en",
+            "region": "US",
+            "name_native": "English",
+            "name_english": "English",
+            "country_english": "United States"
+        },
+        "quality": "dataset_L3-training",
+        "num_speakers": 1,
+        "speaker_id_map": {},
+        "files": {
+            "bt7274.onnx": {
+                "size_bytes": 63122309,
+                "md5_digest": "a5ca3398ea523802af9d4634392ccdae"
+            },
+            "en/en_US/hfc_male/medium/en_US-hfc_male-medium.onnx.json": {
+                "size_bytes": 5033,
+                "md5_digest": "39873d026dfe3392e64662e33ee331eb"
+            },
+            "en/en_US/hfc_male/medium/MODEL_CARD": {
+                "size_bytes": 352,
+                "md5_digest": "0bc174f6fe7a6d795a790110e8bf9096"
+            }
+        },
+        "aliases": []
+    }}
