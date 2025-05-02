@@ -39,8 +39,8 @@ pip install piper-tts
 
 ```bash
 echo "Hello Pilot" | piper \
-  --model <pathtoyour>.onnx \
-  --config <pathtoyour>.onnx.json \
+  --model "<pathtoyour>.onnx" \
+  --config "<pathtoyour>.onnx.json" \
   --output_file output.wav
 ```
 
