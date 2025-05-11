@@ -1,0 +1,27 @@
+{
+    "ScorchAI": {
+        "key": "ScorchAI",
+        "name": "piper",
+        "language": {
+            "code": "en",
+            "family": "en",
+            "region": "US",
+            "name_native": "English",
+            "name_english": "English",
+            "country_english": "United States"
+        },
+        "quality": "ScorchTrainingL1",
+        "num_speakers": 1,
+        "speaker_id_map": {},
+        "files": {
+            "ScorchAI.onnx": {
+                "size_bytes": 63516050,
+                "md5_digest": "384eb690b22f02a3533a3906da1848aa"
+            },
+            "ScorchAI.onnx.json": {
+                "size_bytes": 7096 ,
+                "md5_digest": "d6f5f4ec78ae4a9a177163881cf6a264"
+            }
+        },
+        "aliases": []
+    }}
